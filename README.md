@@ -17,5 +17,5 @@
 ### Pra entrar em contato comigo só acessar minhas redes!
  
 <div> 
-  <a href="www.linkedin.com/in/daniel-gomes-17752b242"target="_blank"></a>
+  <a href="www.linkedin.com/in/daniel-gomes-17752b242"target="_blank"> EU </a>
 </div>
