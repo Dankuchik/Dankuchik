@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do DanKuchik 😁
+## Bem-vindo(a) ao perfil do Daniel! 😁
 
  <div>
    <a href="https://github.com/dankuchik">
