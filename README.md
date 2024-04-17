@@ -14,7 +14,7 @@
  
 <br>
  
-Contato comigo através das minhas redes!
+## Contato comigo através das minhas redes!
  
 <div> 
   <a href="www.linkedin.com/in/daniel-gomes-17752b242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
